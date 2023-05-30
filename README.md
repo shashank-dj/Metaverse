@@ -1,4 +1,7 @@
-# Metaverse Pack
+# Metaverse Pack in cellstrathub
+
+
+**You can check the deployed metaverse pack on www.CellstratHub.com
 
 Metaverse are fictitious versions of the internet that are accessible through virtual reality and augmented reality headsets as a single, immersive virtual world. The lack of standard technical specification of metaverse has led to the use of proprietary technologies. The use of numerous technologies involved in creating a metaverse is included in this Pack.
 
